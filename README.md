@@ -1,4 +1,4 @@
-# Bookmarlets
+# Bookmarklets
 Collection of bookmarklets that make life easier / save time 😎
 
 
